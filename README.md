@@ -34,6 +34,6 @@ I am Danial Ahmed, experienced Software Developer in .NET, SQL, React with a str
 
 |                                               |                                               |
 |-----------------------------------------------|-----------------------------------------------|
-| [![Danial's Stackoverflow stats](https://stackoverflow-card.vercel.app/?userID=7377486&theme=solarized-dark)](https://stackoverflow.com/users/7377486/danial-ahmed) | [![Danials's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4n1aLLL&show_icons=true&theme=gotham)](https://github.com/D4n1aLLL) |
+| [![Danial's Stackoverflow stats](https://stackoverflow-card.vercel.app/?userID=7377486&theme=solarized-dark)](https://stackoverflow.com/users/7377486/danial-ahmed) | [![Danials's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-DanialAhmed&show_icons=true&theme=gotham)](https://github.com/D4n1aLLL) |
 
 ---
